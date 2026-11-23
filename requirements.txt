@@ -1,0 +1,8 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+ultralytics>=8.3.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+requests>=2.31.0
+pillow>=10.0.0
+# Note: segment_pipeline.py uses Blender's bundled Python environment (`bpy`, `mathutils`).

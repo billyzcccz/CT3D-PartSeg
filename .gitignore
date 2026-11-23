@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+uploads/
+outputs/
+*.blend
+*.blend1
+.DS_Store
+Thumbs.db

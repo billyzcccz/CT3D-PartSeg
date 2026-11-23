@@ -85,3 +85,14 @@ python -m http.server 8000
 ```
 
 Open `http://127.0.0.1:8000/` in your browser. If your GPU backend runs on another host, update the **Backend Host** box directly in the web UI.
+
+---
+
+## Team & Advisor
+
+Developed by Team **路边野餐** at **Shenzhen MSU-BIT University (SMBU)** for the *2025 Tianyuan Cup Intelligent Industrial Software Innovation Application Competition* (AI Track, Third Prize):
+
+- **Team Leader**: Chengzhen Zhang (张城祯) — Electronics and Computer Engineering, SMBU
+- **Co-Leader**: Wendao Li (李文道) — Electronics and Computer Engineering, SMBU
+- **Team Member**: Pakhalovich Antonii — Computational Mathematics and Control, SMBU
+- **Advisor**: Jianbo Zheng (郑建波) — Executive Director of Supercomputing Center, Artificial Intelligence Research Institute, SMBU
